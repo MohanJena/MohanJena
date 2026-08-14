@@ -1,18 +1,30 @@
 Hi there, I'm Mohan Kumar Jena 👋 🛡️
 
-Aspiring Engineer focused on **Cybersecurity**, **Secure Web Development**, and **Modern Full-Stack Applications**.
+**Cybersecurity Engineer** | **Full-Stack Web Developer**
 
-🛠️ Technical Skills
+Focused on offensive & defensive security, vulnerability assessment, and building production-ready web applications.
 
-* **Programming Languages:** Python, SQL, C/C++, HTML, CSS
-* **Web Development:** React, Node.js, Express.js, REST APIs
-* **Cybersecurity & Networking:** Penetration Testing, OWASP Top 10, Network Security, Threat Analysis, Linux/Bash Scripting
-* **Tools & Version Control:** Git, GitHub, VS Code
+
+ 🌐 Live Portfolio
+👉 **Check out my live portfolio:** [portfolio-mohanjenas-projects.vercel.app](https://portfolio-mohanjenas-projects.vercel.app)
+
+
+ 🛠️ Technical Skills
+
+* **Programming Languages:** Python, SQL, C/C++, HTML5, CSS3, JavaScript (ES6+)
+* **Web Development:** React, Vite, Node.js, Express.js, REST APIs, Tailwind CSS
+* **Cybersecurity & Networking:** Penetration Testing, OWASP Top 10, Network Security, Wireshark, Nmap, Metasploit, Burp Suite, Linux / Bash
+* **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Supabase, Postman
 
  📌 Current Focus & Learning
-- 🛡️ Grinding **penetration testing fundamentals** and secure architecture.
-- 🌐 Building and deploying **full-stack responsive web apps**.
-- 🤖 Integrating Machine Learning models into web services.
+- 🛡️ Advanced **vulnerability assessment, network defense, and applied ML for threat detection**.
+- 🌐 Building and deploying **scalable, security-first full-stack web applications**.
+- 📱 Expanding into **mobile application development**.
 
-📬 Connect With Me
-- 💼 **LinkedIn:** [linkedin.com/in/mohan-kumar-jena]
+
+ 📬 Connect With Me
+- 🌐 **Portfolio:** [mohanjenas-projects.vercel.app](https://portfolio-mohanjenas-projects.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/mohan-kumar-jena](https://linkedin.com/in/mohan-kumar-jena)
+- 📧 **Email:** [mohanjena2004@gmail.com](mailto:mohanjena2004@gmail.com)
+- 🐙 **GitHub:** [github.com/MohanJena](https://github.com/MohanJena)
+  
